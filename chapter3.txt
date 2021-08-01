@@ -1,1 +1,1 @@
-Chapter 3 test text file.
+Chapter 3 test text file. Adding text to commit.
